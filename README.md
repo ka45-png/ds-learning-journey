@@ -1,4 +1,4 @@
-# Data Science Learning Journey 🚀
+# Data Science Learning Journey 
 
 This repository documents my end-to-end journey in learning data science:
 from Python and SQL fundamentals to machine learning and real-world projects.
